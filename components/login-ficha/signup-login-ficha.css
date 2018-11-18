@@ -1,0 +1,17 @@
+.signup-login-ficha{
+    display: flex;
+    margin-top: 40px;
+    margin-left: 13.3%;
+}
+
+.signup-login-ficha a{
+    color: var(--color-login-signup);
+    text-decoration:none;
+    float: right;
+    margin-right: 20%;
+}
+
+.signup-login-ficha p{
+    flex: 1;
+}
+

@@ -1,0 +1,15 @@
+.esqueci-login-ficha a{
+    position: relative;
+    font-size: var(--font-small);
+    color: var(--color-login-signup);
+    text-decoration:none;
+}
+
+.esqueci-login-ficha #esqueci-login{
+    margin-left: 12%;
+    
+}
+
+.esqueci-login-ficha #esqueci-senha{
+    margin-left: 12%;
+}

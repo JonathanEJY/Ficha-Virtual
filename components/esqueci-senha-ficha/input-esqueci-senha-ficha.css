@@ -1,0 +1,24 @@
+.input-esqueci-senha-ficha input{
+    margin-left: 50px;
+    width: 250px;
+    height: 30px;
+    padding: 5px;
+    background-color:transparent;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    border-bottom: solid 1px;
+    border-bottom-color: var(--color-zero);
+    color: var(--color-zero);
+    outline: none;
+    font-size: var(--font-big);
+    
+}
+
+.input-esqueci-senha-ficha input::-moz-placeholder{
+    color: var(--color-zero);
+}
+
+.user-ficha{
+    margin-top: 10%;
+}

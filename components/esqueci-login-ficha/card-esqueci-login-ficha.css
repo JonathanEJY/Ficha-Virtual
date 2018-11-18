@@ -1,0 +1,9 @@
+.card-esqueci-login-ficha{
+    position: absolute;
+    width: 360px;
+    height: 640px;
+    opacity: .7;
+    background-image: linear-gradient(to top, #004605, #000057);
+    background-repeat: no-repeat;
+    box-sizing: border-box;
+}
