@@ -13,4 +13,5 @@
 
 .signin-cadastro-ficha p{
     flex: 1;
+    color: var(--color-zero);
 }

@@ -13,4 +13,5 @@
 
 .signin-esqueci-senha-ficha p{
     flex: 1;
+    color: var(--color-zero);
 }
