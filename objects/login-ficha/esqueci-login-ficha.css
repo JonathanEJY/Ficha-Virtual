@@ -1,5 +1,6 @@
 .esqueci-login-ficha a{
     position: relative;
+    top: 7px;
     font-size: var(--font-small);
     color: var(--color-login-signup);
     text-decoration:none;

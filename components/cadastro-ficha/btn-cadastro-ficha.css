@@ -1,8 +1,8 @@
 .btn-cadastro-ficha{
     display: block;
     border-radius: var(--border);
-    width: 288px;
-    height: 46px;
+    width: 280px;
+    height: 40px;
     position: relative;
     background-color: var(--color-zero);
     border: 12px;
