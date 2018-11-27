@@ -5,7 +5,7 @@
 }
 
 .signup-login-ficha a{
-    color: var(--color-login-signup);
+    color: var(--color-zero);
     text-decoration:none;
     float: right;
     margin-right: 12%;
